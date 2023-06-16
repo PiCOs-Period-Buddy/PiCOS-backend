@@ -42,4 +42,4 @@ The following are services provided by Sibisa-be.
 
 ## Author
 * Muhammad Fauzan Adzhima&nbsp;&nbsp;(Teknik Elektro Universitas Telkom)
-* Jesslyne Amadea&nbsp;&nbsp;(Sistem Informasi ITSN)
+* Jesslyne Amadea&nbsp;&nbsp;(Sistem Informasi ITS)
