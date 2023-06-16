@@ -35,10 +35,6 @@ The following are services provided by Sibisa-be.
 3. Run pip install -r requirements.txt
 4. Run python3 run api.py
 
-### With docker
-1. Make sure you have docker desktop on your local computer 
-2. Run docker build -t  .
-3. Run docker run -p 
 
 ## Author
 * Muhammad Fauzan Adzhima&nbsp;&nbsp;(Teknik Elektro Universitas Telkom)
